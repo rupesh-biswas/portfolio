@@ -36,8 +36,10 @@ export default function Talent() {
         </div>
         <div className="text-4xl">Professional Skills</div>
       </div>
-      <div className="mt-10 flex flex-row flex-wrap justify-center gap-10">
-        {renderedCards}
+      <div className="flex justify-center">
+        <div className="mt-10 grid grid-cols-2 place-items-center gap-6 md:grid-cols-5">
+          {renderedCards}
+        </div>
       </div>
     </section>
   );
