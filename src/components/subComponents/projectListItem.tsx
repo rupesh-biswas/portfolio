@@ -29,7 +29,7 @@ export default function ProjectListItem({
             width={540}
             height={350}
             alt={name}
-            objectFit="cover"
+            style={{ objectFit: "cover" }}
             className="rounded border border-neutral-900 bg-neutral-800 p-2 shadow md:p-4"
           />
           <div className="mt-4 flex flex-col justify-between gap-2 pr-8">
@@ -42,7 +42,7 @@ export default function ProjectListItem({
               alt="Open link in new tab"
               width={45}
               height={45}
-              objectFit="cover"
+              style={{ objectFit: "cover" }}
               className="mb-6 rounded-full border-2 border-neutral-900 bg-neutral-800 p-2 shadow"
             />
           </div>
