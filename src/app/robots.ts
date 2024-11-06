@@ -4,9 +4,8 @@ export default function robots(): MetadataRoute.Robots {
   return {
     rules: {
       userAgent: "*",
-      allow: "/",
-      disallow: "/private/",
+      disallow: "/",
     },
-    sitemap: "https://rupeshbiswas.com/sitemap.xml",
+    sitemap: "https://beta.rupeshbiswas.com/sitemap.xml",
   };
 }
