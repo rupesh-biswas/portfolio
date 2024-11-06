@@ -9,14 +9,14 @@ export interface ProjectDetails {
 export const projects: ProjectDetails[] = [
   {
     imageUrl: "./projects/snippets.svg",
-    url: "https://snippets-blush.vercel.app/",
+    url: "http://snippets.rupeshbiswas.com/",
     tag: "Website",
     name: "Snippets",
     description: "A place to share some small piece of code or any random text",
   },
   {
     imageUrl: "./projects/discuss.svg",
-    url: "https://discuss-nu-lemon.vercel.app/",
+    url: "https://discuss.rupeshbiswas.com/",
     tag: "Website",
     name: "Discuss",
     description:
@@ -24,7 +24,7 @@ export const projects: ProjectDetails[] = [
   },
   {
     imageUrl: "./projects/js-notebook.svg",
-    url: "https://javascript-notebook-green.vercel.app/",
+    url: "https://js-notebook.rupeshbiswas.com/",
     tag: "Website",
     name: "JavaScript Notebook",
     description:
