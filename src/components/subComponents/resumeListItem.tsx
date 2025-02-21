@@ -61,7 +61,7 @@ export default function ResumeListItem({
                 {description.length === 1 ? (
                   <span>{description[0]}</span>
                 ) : (
-                  <ul className="list-inside list-disc">
+                  <ul className="list-outside list-disc pl-4">
                     {renderedDescription}
                   </ul>
                 )}

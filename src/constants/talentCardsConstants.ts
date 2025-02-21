@@ -6,10 +6,6 @@ interface talentCard {
 const urlPrefix = "./tech-icons/";
 export const talentCards: talentCard[] = [
   {
-    imageUrl: urlPrefix + "js.svg",
-    text: "JavaScript",
-  },
-  {
     imageUrl: urlPrefix + "ts.svg",
     text: "TypeScript",
   },
@@ -20,6 +16,10 @@ export const talentCards: talentCard[] = [
   {
     imageUrl: urlPrefix + "sql.svg",
     text: "SQL",
+  },
+  {
+    imageUrl: urlPrefix + "docker.svg",
+    text: "Docker",
   },
   {
     imageUrl: urlPrefix + "nextjs.svg",
@@ -42,7 +42,7 @@ export const talentCards: talentCard[] = [
     text: "Pandas",
   },
   {
-    imageUrl: urlPrefix + "wordpress.svg",
-    text: "Wordpress",
+    imageUrl: urlPrefix + "apache-airflow.svg",
+    text: "Airflow",
   },
 ];
