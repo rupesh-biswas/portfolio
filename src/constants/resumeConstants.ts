@@ -17,7 +17,7 @@ export const education: resumeConstant = {
 export const experience: resumeConstant[] = [
   {
     title: "Soroco India",
-    subTitle: "Senior Solutions Engineer",
+    subTitle: "Senior Solutions Engineer (Data)",
     startDate: "Jul 2023",
     endDate: "Present",
     description: [
