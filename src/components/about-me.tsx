@@ -10,21 +10,23 @@ export default function AboutMe() {
           <span className="text-white">innovative</span>
         </div>
         <div className="mt-2">
-          <span className="text-white">Software </span>
-          <span className="text-rose-500">Engineer</span>
+          <span className="text-white">Data </span>
+          <span className="text-rose-500">Analyst</span>
         </div>
       </div>
 
       <p className="text-gray-300">
-        I&#39;m a data-driven professional with 5+ years of experience in data
-        analytics, solutions engineering, and product management. Currently, I
-        work as a Senior Solutions Engineer at Soroco, where I use SQL, Python,
-        and data visualization tools to help clients unlock impactful insights.
-        My career journey has given me a strong foundation in software
-        development, and I&#39;m now actively seeking opportunities to
-        transition into a software engineering role. I&#39;m passionate about
-        creating efficient, user-centric solutions and continually advancing my
-        technical skills in frameworks like Next.js, React, and TypeScript.
+        I&#39;m a data-driven professional with 5+ years of experience across
+        data analytics, solutions engineering, and product management.
+        Currently, I serve as a Senior Business Analyst at Soroco, where I
+        leverage SQL, Python, and data visualization tools to deliver actionable
+        insights that drive business outcomes. My diverse experience has
+        equipped me with a strong foundation in data-driven decision-making,
+        stakeholder management, and cross-functional collaboration. I&#39;m now
+        looking to take the next step in my career in an analytics or product
+        management role, where I can combine my analytical expertise with
+        user-focused thinking to solve meaningful problems and shape impactful
+        products.
       </p>
 
       <div className="flex flex-col gap-6 px-6 text-gray-300">

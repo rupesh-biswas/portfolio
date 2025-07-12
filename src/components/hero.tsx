@@ -13,20 +13,22 @@ export default function HeroSection() {
             <span className="text-white">Biswas</span>
           </h1>
           <p className="mb-6 mt-2 text-xl text-gray-400">
-            Senior Solutions Engineer
+            Senior Business Analyst
           </p>
 
           <p className="mb-8 text-gray-300">
             With over 5 years of experience in data analysis and product
-            management, I bring a unique perspective to problem-solving and
-            strategic decision-making. Now, I&#39;m transitioning to software
-            development, where I&#39;m excited to apply my analytical background
-            to create impactful solutions.
+            management, I specialize in transforming complex data into
+            actionable insights and delivering user-centric solutions. I bring a
+            unique blend of analytical rigor and product thinking—using data to
+            guide strategy, prioritize features, and improve business outcomes.
+            I&#39;m now actively exploring opportunities where I can drive
+            impact at the intersection of data, product, and user experience.
           </p>
 
           {/* Download Resume Button */}
           <Link
-            href="./Rupesh_Biswas.pdf"
+            href="./Rupesh_Biswas_ba.pdf"
             target="_blank"
             className="inline-block rounded-md bg-rose-500 px-6 py-3 text-center font-semibold text-white transition hover:bg-rose-600"
           >
